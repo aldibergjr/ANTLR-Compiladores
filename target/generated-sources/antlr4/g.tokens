@@ -1,0 +1,10 @@
+MainClass=1
+ClassDeclaration=2
+VarDeclaration=3
+MethodDeclaration=4
+Type=5
+Statement=6
+Expression=7
+Identifier=8
+Gambiarra=9
+Number=10
